@@ -1,0 +1,5 @@
+dearpygui>=1.11.0
+playwright>=1.40.0
+playwright-stealth>=1.0.6
+aiohttp>=3.9.0
+aiohttp-socks>=0.8.0

@@ -1,0 +1,31 @@
+# Sensitive configuration (contains API keys, passwords)
+config.json
+
+# Session data
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+.venv/
+env/
